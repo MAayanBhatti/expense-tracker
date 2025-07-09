@@ -19,7 +19,7 @@ A clean and responsive **Expense Tracker** web app built with **HTML**, **Tailwi
 
 ## 📸 Screenshot
 
-![Expense Tracker Screenshot](https://i.imgur.com/Mz9eD9E.png)
+![Expense Tracker Screenshot](Screenshot 2025-07-09 224159.png)
 <!-- You can replace the image link with your own GitHub-uploaded screenshot -->
 
 ---
