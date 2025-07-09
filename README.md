@@ -11,7 +11,7 @@ A clean and responsive **Expense Tracker** web app built with **HTML**, **Tailwi
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live demo](https://your-username.github.io/expense-tracker)
+🔗 [Click here to view the live demo](https://maayanbhatti.github.io/expense-tracker/)
 
 ---
 
